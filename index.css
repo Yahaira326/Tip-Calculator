@@ -30,7 +30,7 @@
   }
   
   button {
-    background-color: #4caf50;
+    background-color: #a349a4;
     color: white;
     padding: 10px;
     border: none;
@@ -43,7 +43,7 @@
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #572364;
   }
   
   #total {
